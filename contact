@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Untitled Document</title>
+<link href="mainStyleSubmitOne.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<div id="header"> <div id="logo"><a href="index.html"><img class="logo-img" src="vector_volleyball.jpg" width="300" height="200" alt=""/></a></div>
+<h1>Slammers Beach Volleyball</h1>
+</div>
+<div id="topNav">
+  <ul>
+	<li><a href="index.html">Home</a></li>
+ 	<li><a href="aboutVolleyball.html">About</a></li>
+ 	<li><a href="contacts.html">Contact</a></li>
+ 	<li><a href="signUp.html">Sign-Up</a></li>
+ </ul>
+</div>
+
+<div id="body">
+<h1>Contacts</h1>
+<p>Phone: 47712233</p>
+<p>fax: 4771 2244</p>
+<p>address: 123 Pokemund Street, Cairsville</p>
+<p>email: slammers@ gmail.com</p>
+</div>
+
+<div id="contact-img">
+<img src="600px-Beach_Volleyball_Classic_2007_(1444259070).jpg" width="600" height="900" alt=""/>
+</div>
+
+<div id="footer">
+
+        
+        <div id="copyright">
+        <p>&copy; 2015 Slammers Beach Volleyball</p>
+        </div>
+       
+        <div id="contact">
+        <p>Phone: 47712233<br>
+fax: 4771 2244<br>
+address: 123 Pokemund Street, Cairsville<br>
+Email:<a href="mailto:Diggers@gmail.com"> slammers@ gmail.com</a></p>
+        </div>
+        </div>
+</body>
+</html>
