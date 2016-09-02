@@ -1,0 +1,193 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Untitled Document</title>
+<link href="mainStyleSubmitOne.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<div id="header"> <div id="logo"><a href="index.html"><img class="logo-img" src="vector_volleyball.jpg" width="300" height="200" alt=""/></a></div>
+<h1>Slammers Beach Volleyball</h1>
+</div>
+<div id="topNav">
+  <ul>
+	<li><a href="index.html">Home</a></li>
+ 	<li><a href="aboutVolleyball.html">About</a></li>
+ 	<li><a href="contacts.html">Contact</a></li>
+ 	<li><a href="signUp.html">Sign-Up</a></li>
+ </ul>
+ </div>
+
+
+<div id="body">
+<div id="h1">
+
+<h2>Home</h2>
+
+<p>Welcome to the Slammers Beach Volleyball webpage! We are a small local company and we get about 100 people playing at Slammers each week. Volleyball is a great family sport and for socializing with friends! We offer Volleyball (professional competitions sometimes), socializing, licensed bar (happy hour every day from 6pm-7pm), available to hire for functions – fun and fitness.<br> Everyone is welcome, hope to see you at Slammers Beach Volleyball soon!</p>
+</div>
+<div id="h2">
+<h3>Who can play?</h3>
+<p>There are 800 million players worldwide who play volleyball at least once a week. Volleyball is a sport that is safe, fun and does not require extreme fitness. Since you don’t have to move around the court too much, it’s great for people who want a low-impact sport that will help them get fit without pushing them to their limit. 
+<br>
+<br>
+<div id="body-img"><img src="5208457834_f7d61d8445_z.jpg" width="640" height="483" alt=""/> </div>
+For those who are a bit more competitive, the sport is fantastic because games can be really exciting and intense, but there’s always a net between you and your opponents. 
+Beach volleyball is suitable for people of all ages, and men and women alike.
+Anyone considering starting a new sport or exercise program should see their doctor first.</p>
+</div>
+<div id="h3">
+<h3>Announcements</h3>
+<p>During August only, you can purchase 4 drinks for the price of 3 at the bar.<br>
+New teams get a 20% discount on registration for the next season.<br>
+Slammers Tournament: Get your nominations in now for the next 4-a-side weekend competition.<br>
+New season starts August 21st.</p>
+</div>
+<div id="h4">
+<h4>Ladder</h4><table width="200" border="1">
+  <tbody>
+    <tr>
+      <td>Position </td>
+      <td>Team </td>
+      <td>Played&nbsp;</td>
+      <td>Wins&nbsp;</td>
+      <td>Losses&nbsp;</td>
+      <td>Draws&nbsp;</td>
+      <td>For Points&nbsp;</td>
+      <td>Against Points&nbsp;</td>
+      <td>Points&nbsp;</td>
+    </tr>
+    <tr>
+      <td>1 </td>
+      <td>Beachies&nbsp;</td>
+      <td>13 </td>
+      <td>13 </td>
+      <td>0</td>
+      <td>0 </td>
+      <td>651 </td>
+      <td>312 </td>
+      <td>189 </td>
+    </tr>
+    <tr>
+      <td>2 </td>
+      <td>Wardsandy&nbsp;</td>
+      <td>13 </td>
+      <td>10 </td>
+      <td>2 </td>
+      <td>1 </td>
+      <td>541 </td>
+      <td>443 </td>
+      <td>169 </td>
+    </tr>
+    <tr>
+      <td>3 </td>
+      <td>Flashmann </td>
+      <td>14 </td>
+      <td>8 </td>
+      <td>5 </td>
+      <td>1 </td>
+      <td>559 </td>
+      <td>552 </td>
+      <td>167 </td>
+    </tr>
+    <tr>
+      <td>4 </td>
+      <td>Googlers </td>
+      <td>14 </td>
+      <td>7 </td>
+      <td>6 </td>
+      <td>1 </td>
+      <td>558 </td>
+      <td>485 </td>
+      <td>163 </td>
+    </tr>
+    <tr>
+      <td>5 </td>
+      <td>Holdsworthy </td>
+      <td>14 </td>
+      <td>8 </td>
+      <td>6 </td>
+      <td>0 </td>
+      <td>528 </td>
+      <td>517 </td>
+      <td>162 </td>
+    </tr>
+    <tr>
+      <td>6 </td>
+      <td>Spikers </td>
+      <td>14 </td>
+      <td>4 </td>
+      <td>9 </td>
+      <td>1 </td>
+      <td>488 </td>
+      <td>588 </td>
+      <td>146 </td>
+    </tr>
+    <tr>
+      <td>7 </td>
+      <td>Pikers </td>
+      <td>13 </td>
+      <td>4 </td>
+      <td>7 </td>
+      <td>0 </td>
+      <td>495 </td>
+      <td>518 </td>
+      <td>145 </td>
+    </tr>
+    <tr>
+      <td>8 </td>
+      <td>Larneys </td>
+      <td>14 </td>
+      <td>3 </td>
+      <td>11 </td>
+      <td>0 </td>
+      <td>537 </td>
+      <td>623 </td>
+      <td>139 </td>
+    </tr>
+    <tr>
+      <td>9 </td>
+      <td>Setties </td>
+      <td>12 </td>
+      <td>6 </td>
+      <td>6 </td>
+      <td>0 </td>
+      <td>460 </td>
+      <td>484 </td>
+      <td>137 </td>
+    </tr>
+    <tr>
+      <td> 10</td>
+      <td>Side Out </td>
+      <td>12 </td>
+      <td>3 </td>
+      <td>9 </td>
+      <td>0 </td>
+      <td>454 </td>
+      <td>451 </td>
+      <td>136 </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+<div id="footer">
+       
+        
+        <div id="copyright">
+        <p>&copy; 2015 Slammers Beach Volleyball</p>
+        </div>
+       
+        <div id="contact">
+        <p>Phone: 47712233<br>
+fax: 4771 2244<br>
+address: 123 Pokemund Street, Cairsville<br>
+Email:<a href="mailto:Diggers@gmail.com"> slammers@ gmail.com</a></p>
+        </div>
+        </div>
+
+
+
+</body>
+</html>
